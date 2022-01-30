@@ -46,3 +46,23 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
  </a>
 </p>
+
+## Mayank's Github Stats
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank17M&theme=radical" alt="Mayank17M" height="192px" width="400px" />
+    <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mayank17M&show_icons=true&include_all_commits=true&theme=radical" alt="Mayank17M" height="192px" width="400px"/>
+</p>
+
+<p align="center">
+    <img alt="Mayank's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mayank17M&custom_title=Mayank's%20Activity%20Graph&theme=github" />
+</p>
+
+
+<p href="https://github.com/joeyouss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank17M&theme=tokyonight&layout=compact&" />
+</p>
+
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Mayank17M&label=Views&color=blue&style=plastic" alt="Mayank17M" />
+</p>
