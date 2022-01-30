@@ -1,6 +1,6 @@
 <h1>Hi , I'm Mayank Mamgain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
- ![](https://readme-typing-svg.herokuapp.com/?width=600&height=50&lines=Thanks+for+dropping+by.;Given+enough+eyeballs,+all+bugs+are+shallow.;The+imposter+syndrome+is+real.+Luckily,+it+goes+away.) 
+ ![](https://readme-typing-svg.herokuapp.com/?width=600&height=50&lines=Thanks+for+dropping+by.;In+God+we+trust.+All+others+must+bring+data.;Given+enough+eyeballs,+all+bugs+are+shallow.;The+imposter+syndrome+is+real.+Luckily,+it+goes+away.) 
 
  ## About Me
 - 🔭 I’m currently working on Back-end and Blockchain technologies.
