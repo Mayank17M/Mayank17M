@@ -23,6 +23,8 @@
 </a>
 </div>  
 
+<br/>
+
 ## Tech Stack
 
 <p align="left">
@@ -46,6 +48,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
  </a>
 </p>
+
+<br/>
 
 ## Mayank's Github Stats
 <p>
