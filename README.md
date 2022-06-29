@@ -4,7 +4,7 @@
 
  ## About Me
 - 🔭 I’m currently working on Back-end and Blockchain technologies.
-- 🌱 I’m currently learning Solidity and micro-services architecture.
+- 🌱 I’m currently learning Rust and PDAs.
 - ❓ Discuss about anything related to JS, Web3, Blockchain, AI algorithms and Cosmic space!  
 - 📫 How to reach me: mamgain.mayank01@gmail.com
 - ⚡ Fun fact: I have no special talents. I am only passionately curious.
